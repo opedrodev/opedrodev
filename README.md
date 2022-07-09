@@ -13,8 +13,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=opedrodev&show_icons=true&locale=en&layout=compact" alt="opedrodev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=opedrodev&show_icons=true&locale=en" alt="opedrodev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=opedrodev&show_icons=true&locale=en" alt="opedrodev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=opedrodev&" alt="opedrodev" /></p>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
