@@ -17,4 +17,19 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=opedrodev&theme=vue&hide_border=true&area=true&title_color=51cf66&bg_color=00000000)
 
+<br />
+<br />
+<br />
+
+#### MAIN SKILLS
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&color=ebfbee)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&color=ebfbee)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&color=ebfbee)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&color=ebfbee)&nbsp;
+![SASS](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=Sass&color=ebfbee)&nbsp;
+
+<br />
+<br />
+<br />
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=51cf66&height=120&section=footer"/>
