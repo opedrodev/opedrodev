@@ -15,6 +15,6 @@
 <br />
 <br />
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=opedrodev&theme=github-light&hide_border=true&area=true&title_color=51cf66&bg_color=00000000)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=opedrodev&theme=vue&hide_border=true&area=true&title_color=51cf66&bg_color=00000000)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=51cf66&height=120&section=footer"/>
