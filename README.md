@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Pedro</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=51cf66&height=120&section=header"/>
 
-<h3 align="center">a web development student from brazil</h3>
-
-##
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=opedrodev&label=Profile%20views&color=0e75b6&style=flat" alt="opedrodev" /> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=51cf66&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Pedro;Front-End+Web+Developer;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <br />
 <br />
+<br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=opedrodev&show_icons=true&locale=en&layout=compact" alt="opedrodev" /></p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=opedrodev&show_icons=true&count_private=true&hide_border=true&title_color=51cf66&icon_color=51cf66&text_color=868e96&bg_color=00000000" alt="Pedro Silva Github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedrodev&layout=compact&hide_border=true&title_color=51cf66&text_color=868e96&bg_color=00000000" />
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=opedrodev&show_icons=true&locale=en" alt="opedrodev" /></p>
+<br />
+<br />
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=opedrodev&" alt="opedrodev" /></p>
+![Contribution](https://activity-graph.herokuapp.com/graph?username=opedrodev&theme=github-light&hide_border=true&area=true&title_color=51cf66&bg_color=00000000)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=51cf66&height=120&section=footer"/>
