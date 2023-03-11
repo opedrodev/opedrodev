@@ -30,13 +30,14 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&color=e5feff)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&color=e5feff)&nbsp;
 ![SASS](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=Sass&color=e5feff)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=39bcf8&color=e5feff)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&color=e5feff)&nbsp;
 ![React.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=black&color=e5feff)&nbsp;
 
 #### BACK-END SKILLS
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&color=e5feff)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&color=e5feff)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=3178c6&color=e5feff)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=3178c6&color=e5feff)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&color=e5feff)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&color=e5feff)&nbsp;
 
