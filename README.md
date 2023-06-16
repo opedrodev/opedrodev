@@ -15,7 +15,7 @@
 <br />
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=opedrodev&theme=react-dark&bg_color=0000000&line=66d9e8&point=00c5cc&color=66d9e8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=opedrodev&theme=react-dark&bg_color=0000000&line=66d9e8&point=00c5cc&color=66d9e8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
 <br />
@@ -32,7 +32,8 @@
 ![SASS](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=Sass&color=e5feff)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=39bcf8&color=e5feff)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&color=e5feff)&nbsp;
-![React.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=black&color=e5feff)&nbsp;
+![ReactNative.js](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&color=e5feff)&nbsp;
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=black&color=e5feff)&nbsp;
 
 #### BACK-END SKILLS
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&color=e5feff)&nbsp;
