@@ -1,4 +1,4 @@
-<h1>👋 Hello there, I’m @opedrodev</h1>
+<h1>👋 Hello there, I’m Pedro</h1>
 <div>
 <h3>About Me</h3>
 <ul>
