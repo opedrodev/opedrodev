@@ -1,5 +1,4 @@
 <h1>👋 Hello there, I’m @opedrodev</h1>
-<img width="40" src="https://media.licdn.com/dms/image/D4D0BAQFyC-DQlcvVjg/company-logo_200_200/0/1706104483159/pinely_international_logo?e=1714608000&v=beta&t=qS3szTMuifOZAq40zJlwrPdI-4ptDGpOakCJHCRBOOw" />
 <div>
 <h3>About Me</h3>
 <ul>
